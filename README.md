@@ -1,1 +1,1 @@
-# hexagon-tetris
+# hexa-stack
